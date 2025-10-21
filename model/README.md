@@ -1,2 +1,1 @@
-# model
-Premier League sports betting mdoel
+Premier League Match Prediction Model
